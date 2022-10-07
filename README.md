@@ -5,7 +5,7 @@ WebSocket에 대해 공부해보고, 직접 구현해보기로 했다. 공식 �
 
 > 공부한 내용 : <a href="https://github.com/1seul357/TIL/blob/master/ETC/Socket%EA%B3%BC%20WebSocket.md">Socket과 WebSocket</a>
 
-server는 node.js로, client는 React로 구현하였다.
+server는 node.js로, client는 React로 구현하였다. 목표는 소켓 통신에 대한 이해였으므로 간단한 기능만 넣어서 완성!
 
 </br>
 
