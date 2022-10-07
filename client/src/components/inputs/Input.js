@@ -13,7 +13,7 @@ const Input = ({
 }) => {
   return (
     <div className="form-field">
-      <form className="form1" onSubmit={onSubmit}>
+      <form className="form2" onSubmit={onSubmit}>
         <h1>{title}</h1>
         <div className="name-field">
           <TextField

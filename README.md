@@ -11,5 +11,6 @@ server는 node.js로, client는 React로 구현하였다.
 
 </br>
 
-구현 영상 추가 예정
-
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/95670205/194569852-361d20c1-7f7f-4780-bee5-e5c1e9e5817b.gif">
+</p>
